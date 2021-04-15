@@ -1,7 +1,7 @@
 # SAMSI-Working-Group
 Codes related to global sensitivity analysis 
 
-Sensitivity Comparison:
+Sensitivity Comparison
 
 Main file: 
 rreSensComparison.m : compares parameters sensitivities computed by complex-step against sensitivity equations for enzyme cooperativity model with 2 intermed coefficients
